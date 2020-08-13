@@ -1,0 +1,42 @@
+# Author settings
+name: 梁窠金
+title: Android 开发工程师
+address: 中国, 上海
+email: liungkejin@foxmail.com
+github: liungkejin
+gavatar: /assets/img/avatar.JPG
+workHistory:
+
+- work1:
+  company: 无
+  location: 中国, 杭州
+  title: 编程爱好者
+  started: 2020
+  duration: (2019 - 2021)
+  description: 代码与足球
+
+educationHistory:
+- education1:
+  organization: 无
+  degree: 无
+  major: 物联网
+  started: 2020
+  duration: (2019.9 .......)
+  description: 自学  Java, 单片机
+languages:
+- language1:
+  name: 中文
+  proficiency: Native
+- language2:
+  name: English
+  proficiency: Limit
+programmingSkills:
+- Java:
+  name: Java
+  percentage: 10%
+- Bash:
+  name: 嵌入式开发
+  percentage: 10%
+- CPP:
+  name: Football
+  percentage: 80%
